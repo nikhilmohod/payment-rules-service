@@ -1,0 +1,32 @@
+{
+  "ProductList": [
+
+    {
+      "ProductId": 1,
+      "ProducName": "Physical Product",
+      "RulesCategoryId": [ 1,7 ]
+    },
+    {
+      "ProductId": 2,
+      "ProducName": "Book",
+      "RulesCategoryId": [ 2,7 ]
+    },
+    {
+      "ProductId": 3,
+      "ProducName": "Purches Membership",
+      "RulesCategoryId": [ 3, 5 ]
+    },
+    {
+      "ProductId": 4,
+      "ProducName": "Upgrade Membership",
+      "RulesCategoryId": [4,5]
+    },
+    {
+      "ProductId": 5,
+      "ProducName": "Purches 'Learning to Ski' video",
+      "RulesCategoryId": [4,5]
+    }
+
+  ]
+
+}

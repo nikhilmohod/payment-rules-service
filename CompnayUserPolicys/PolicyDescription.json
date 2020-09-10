@@ -1,0 +1,39 @@
+{
+  "policys": [
+    {
+      "policyId": 1,
+      "policyDescription": "Physical Product",
+      "policyOperation": "GeneratePackingSlip"
+    },
+    {
+      "policyId": 2,
+      "policyDescription": "Book",
+      "policyOperation": "GenerateDuplicatePackingSlipRoyaltyDept"
+    },
+    {
+      "policyId": 3,
+      "policyDescription": "Membership",
+      "policyOperation": "ActivateMembership"
+    },
+    {
+      "policyId": 4,
+      "policyDescription": "Upgrade to Membership",
+      "policyOperation": "UpgradeToMembership"
+    },
+    {
+      "policyId": 5,
+      "policyDescription": "Membership or Upgrade Membership",
+      "policyOperation": "SendActivationOrUpgradeEmail"
+    },
+    {
+      "policyId": 6,
+      "policyDescription": "Add Free FirstAid Video ",
+      "policyOperation": "AddFirstAidToPackingSlip"
+    },
+    {
+      "policyId": 7,
+      "policyDescription": "Physical Product Or Book",
+      "policyOperation": "GenerateCommissionToAgent"
+    }
+  ]
+}
